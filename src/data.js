@@ -1,0 +1,23 @@
+export const chartData = [
+  { label: "00:00", pullups: 10, situps: 10 },
+  { label: "01:00", pullups: 10, situps: 10 },
+  { label: "02:00", pullups: 10, situps: 20 },
+  { label: "03:00", pullups: 10, situps: 60 },
+  { label: "04:00", pullups: 20, situps: 20 },
+  { label: "05:00", pullups: 20, situps: 20 },
+  { label: "06:00", pullups: 20, situps: 40 },
+  { label: "07:00", pullups: 20, situps: 10 },
+  { label: "08:00", pullups: 15, situps: 10 },
+  { label: "09:00", pullups: 15, situps: 30 },
+  { label: "10:00", pullups: 15, situps: 20 },
+  { label: "11:00", pullups: 15, situps: 30 },
+  { label: "12:00", pullups: 25, situps: 50 },
+  { label: "13:00", pullups: 25, situps: 30 },
+  { label: "14:00", pullups: 25, situps: 40 },
+  { label: "15:00", pullups: 25, situps: 10 },
+  { label: "16:00", pullups: 20, situps: 20 },
+  { label: "17:00", pullups: 20, situps: 30 },
+  { label: "18:00", pullups: 20, situps: 10 },
+  { label: "19:00", pullups: 20, situps: 30 },
+  { label: "20:00", pullups: 30, situps: 10 }
+];

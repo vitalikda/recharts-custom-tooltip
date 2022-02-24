@@ -1,0 +1,32 @@
+{
+  "name": "recharts-custom-tooltip-on-hover",
+  "version": "1.0.0",
+  "description": "From here: https://github.com/recharts/recharts/issues/388 ",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@chakra-ui/react": "1.8.5",
+    "@emotion/react": "11.8.1",
+    "@emotion/styled": "11.8.1",
+    "framer-motion": "6.2.8",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "5.0.0",
+    "recharts": "2.1.9"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
